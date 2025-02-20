@@ -1,5 +1,5 @@
 # Number_Guessing_Game-with-python
-Sample output - 1
+# Sample output - 1
 please ensure you have only three chances to guess the number
 
 enter the number 1 : 5
@@ -14,7 +14,7 @@ enter the number 3 : 8
 
 hoorahhhh....!!!!
 
-Sample output - 2
+# Sample output - 2
 please ensure you have only three chances to guess the number
 
 enter the number 1 : 9
